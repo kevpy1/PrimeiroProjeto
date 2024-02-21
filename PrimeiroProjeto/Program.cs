@@ -22,6 +22,15 @@ namespace PrimeiroProjeto
             Console.WriteLine("cidade: {0} ", cidade);
             //Console.WriteLine("nome: {0} \n idade: {1} anos \n cidade: {2}",nome, idade, cidade);
         }
+        int n1
+        int n2;
+
+        Console.writeline("digite um numero qualquer",n1);
+            n1 = int.Parse(Console.ReadLine());
+        Console.WriteLine("digite um outro numero qualquer",n2);
+           n2 = int.Parse(Console.ReadLine());
     }
+
+
     
 }
